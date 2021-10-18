@@ -17,5 +17,5 @@
 #### Languages and Tools:
 <img src='python.png'><img src='html.png'><img src='css.png'><img src='js.png'><img src='react.png'><img src='node.png'><img src='c++.png'><img src='vscode.png'>
 
-
-
+---
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=AlexanderFernandez11&show_icons=true&hide_border=true">
