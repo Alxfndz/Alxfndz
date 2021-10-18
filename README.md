@@ -2,7 +2,7 @@
 
 #### -🎓 I am currently studying Economics at Florida State University.
 
-#### -💻 I am passionate about all things Data, Volatility and Capital Markets.
+#### -💻 I am passionate about all things Data, Volatility, Combat Sports and Capital Markets.
 
 #### Connect with me:
 <a href="https://twitter.com/CTE_Capital">
