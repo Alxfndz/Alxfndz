@@ -1,13 +1,23 @@
 ### Hi there, I'm Alex! 👋
 
-#### 🎓 I am currently studying Economics at Florida State University.
+#### -🎓 I am currently studying Economics at Florida State University.
 
-#### 💻 I am passionate about all things Data, Volatility and Capital Markets.
+#### -💻 I am passionate about all things Data, Volatility and Capital Markets.
 
-<i class="programming lang-python"></i> <i class="programming lang-html"></i> <i class="programming lang-css"></i> <i class="programming lang-javascript"></i>
+#### Connect with me:
+<a href="https://twitter.com/CTE_Capital">
+         <img src="twitter.png">
+      </a>
+<a href="https://www.linkedin.com/in/alexander-fernandez-3077ab18b/">
+         <img src="linkedin.png">
+      </a>
 
-
-
-<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
-
-
+#### Languages and Tools:
+<img src='python.png'>
+<img src='html.png'>
+<img src='css.png'>
+<img src='js.png'>
+<img src='react.png'>
+<img src='node.png'>
+<img src='c++.png'>
+<img src='vscode.png'>
