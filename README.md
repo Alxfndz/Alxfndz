@@ -1,8 +1,10 @@
 ### Hi there, I'm Alex! 👋
 
-#### -🎓 I am currently studying Economics at Florida State University.
+#### -🎓📊 I am currently studying Economics at Florida State University.
 
-#### -💻 I am passionate about all things Data, Volatility, Combat Sports and Capital Markets.
+#### -💻💹 I am passionate about all things Data, Volatility, Combat Sports and Capital Markets.
+
+#### -📈🧮 Currently pursuing opportunities in Data Science & Fintech
 
 #### Connect with me:
 <a href="https://twitter.com/CTE_Capital">
