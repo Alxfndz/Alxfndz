@@ -4,7 +4,10 @@
 
 #### 💻 I am passionate about all things Data, Volatility and Capital Markets.
 
-<img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen}" />
+<i class="programming lang-python"></i> <i class="programming lang-html"></i> <i class="programming lang-css"></i> <i class="programming lang-javascript"></i>
 
+
+
+<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
 
 
