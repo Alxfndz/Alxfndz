@@ -1,6 +1,6 @@
 ### Hi there, I'm Alex! 👋
 
-#### -🎓📊 I am currently studying Economics at Florida State University.
+#### -🎓📊 I'm an undergraduate Economics student at Florida State Universty.🏹
 
 #### -💻💹 I am passionate about all things Data, Volatility, Combat Sports and Capital Markets.
 
