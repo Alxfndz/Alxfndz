@@ -14,10 +14,18 @@
 
 #### Languages and Tools:
 <img src='python.png'>
+<br>
 <img src='html.png'>
+<br>
 <img src='css.png'>
+<br>
 <img src='js.png'>
+<br>
 <img src='react.png'>
+<br>
 <img src='node.png'>
+<br>
 <img src='c++.png'>
+<br>
 <img src='vscode.png'>
+<br>
