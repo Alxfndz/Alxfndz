@@ -2,7 +2,7 @@
 
 #### -🎓📊 I'm an undergraduate Economics student at Florida State Universty.🏹
 
-#### -💻💹 I am passionate about all things Data, Volatility, Combat Sports and Capital Markets.
+#### -💻💹 I am passionate about all things Data, Volatility, Sports Analytics and Capital Markets.
 
 #### -📈🧮 Currently pursuing opportunities in Data Science & Fintech.
 
