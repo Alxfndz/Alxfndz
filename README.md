@@ -4,7 +4,7 @@
 
 #### -💻💹 I am passionate about all things Data, Volatility, Sports Analytics and Capital Markets.
 
-#### -📈🧮 Currently pursuing opportunities in Analytics & Finance.
+#### -📈🧮 Currently pursuing opportunities in Data Science & Finance.
 
 #### Connect with me:
 <a href="https://twitter.com/CTE_Capital">
