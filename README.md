@@ -6,7 +6,7 @@
 
 #### -💻💹 I'm an aspiring quantitative trader with an array of passions including DS/ML, Web Dev,  Capital/FX/Crypto Markets and Mixed Martial Arts.
 
-#### -📈🧮 Currently pursuing opportunities in Data Science & Quant Finance.
+#### -📈🧮 Currently pursuing internships in Software Engineering, Data Science and Quantitative Trading.
 
 #### Connect with me:
 <a href="https://twitter.com/CTE_Capital">
