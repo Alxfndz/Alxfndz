@@ -4,7 +4,7 @@
 
 #### -🎓💻 Post-graduation I'll be pursuing a masters in Computer Science at Florida International University.
 
-#### -💻💹 I'm an aspiring quantitative trader with an array of passions including DS/ML, Web Dev,  Capital/FX/Crypto Markets and Mixed Martial Arts.
+#### -💻💹 I'm an aspiring Quantitative Trader with an array of passions including DS/ML, Web Dev, Capital/FX/Crypto Markets and Mixed Martial Arts.
 
 #### -📈🧮 Currently pursuing internships in Software Engineering, Data Science and Quantitative Trading.
 
