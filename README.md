@@ -9,7 +9,7 @@
 #### -📈🧮 Currently pursuing opportunities in Data Science and Quantitative Trading.
 
 #### Connect with me:
-<a href="https://twitter.com/CTE_Capital">
+<a href="https://twitter.com/A_Fernandez11">
          <img src="twitter.png">
       </a>
 <a href="https://www.linkedin.com/in/alexander-fernandez-3077ab18b/">
