@@ -17,7 +17,7 @@
       </a>
 
 #### Languages and Tools:
-<img src='python.png'><img src='iconss8-sql-48.png'><img src='c++.png'><img src='html.png'><img src='css.png'><img src='js.png'><img src='react.png'><img src='node.png'>
+<img src='python.png'><img src='icons8-sql-48.png'><img src='c++.png'><img src='html.png'><img src='css.png'><img src='js.png'><img src='react.png'><img src='node.png'>
 
 ---
 
