@@ -2,7 +2,7 @@
 
 #### -🎓📊 I'm an undergraduate Economics student at Florida State Universty graduating Spring 2022.
 
-#### -🎓💻 Post-graduation I'll be pursuing a masters' degree in Computational Data Analytics at The Georgia Institute of Technology.
+#### -🎓💻 Post-graduation I'll be pursuing a masters' degree in Computer Science at The Georgia Institute of Technology.
 
 #### -💻💹 I'm an aspiring Quantitative Trader with an array of passions including DS/ML, Capital/FX/Crypto Markets and Mixed Martial Arts Analytics.
 
