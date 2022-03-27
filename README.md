@@ -19,7 +19,7 @@
 #### Languages and Tools:
 <img src='icons8-microsoft-excel-2019-48.png'><img src='icons8-tableau-software-48.png'><img src='python.png'><img src='icons8-r-48.png'><img src='icons8-sql-48.png'><img src='c++.png'><img src='html.png'><img src='css.png'><img src='js.png'><img src='node.png'><img src='react.png'>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderFernandez11a&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderFernandez11&hide=contribs,prs)
 ---
 
 
