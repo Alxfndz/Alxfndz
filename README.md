@@ -4,9 +4,9 @@
 
 #### -🎓💻 Post-graduation I'll be pursuing a masters' degree in Computer Science at Florida International University.
 
-#### -💻💹 I'm an aspiring Quantitative Trader with an array of passions including DS/ML, Capital/FX/Crypto Markets and Mixed Martial Arts Analytics.
+#### -💻💹 I'm an aspiring Trader with an array of passions including DS/ML, Capital/FX/Crypto Markets and Mixed Martial Arts Analytics.
 
-#### -📈🧮 Currently pursuing opportunities in Data Science and Quantitative Trading.
+#### -📈🧮 Currently pursuing opportunities in Data Science and Quantitative Finance.
 
 #### Connect with me:
 <a href="https://twitter.com/A_Fernandez11">
