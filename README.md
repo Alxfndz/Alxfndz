@@ -21,7 +21,7 @@
 
 ![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderFernandez11&hide=contribs,prs&count_private=true&show_icons=true&theme=tokyonight&hide_rank=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderFernandez11](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderFernandez11)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 
