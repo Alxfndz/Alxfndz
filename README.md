@@ -23,7 +23,7 @@
 
 [![Alexander Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderFernandez11&theme=tokyonight&layout=compact&count_private=true&langs_count=8&show_icons=tru)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=tokyonight&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 
