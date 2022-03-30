@@ -4,7 +4,7 @@
 
 #### -🎓💻 Post-graduation I'll be pursuing a masters degree in Statistics at Florida International University.
 
-#### -💻💹 I'm an aspiring Trader with an array of passions including DS/ML, Capital/FX/Crypto Markets and Mixed Martial Arts.
+#### -💻💹 I'm an aspiring Trader with an array of passions including DS/ML, Capital Markets and Mixed Martial Arts.
 
 #### -📈🧮 Currently pursuing opportunities in Data Science and Quantitative Finance.
 
