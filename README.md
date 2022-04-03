@@ -4,7 +4,7 @@
 
 #### -🎓💻 Post-graduation I'll be pursuing a masters degree in Computer Science at Florida International University.
 
-#### -💻💹 I'm an aspiring Trader with an array of passions including DS/ML, Capital Markets and Mixed Martial Arts.
+#### -💻💹 I'm an aspiring Quant Trader with an array of passions including DS/ML, Capital Markets and Mixed Martial Arts.
 
 
 #### Connect with me:
