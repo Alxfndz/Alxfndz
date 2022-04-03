@@ -6,7 +6,6 @@
 
 #### -💻💹 I'm an aspiring Trader with an array of passions including DS/ML, Capital Markets and Mixed Martial Arts.
 
-#### -📈🧮 Currently pursuing opportunities in Data Science and Quantitative Finance.
 
 #### Connect with me:
 <a href="https://twitter.com/A_Fernandez11">
