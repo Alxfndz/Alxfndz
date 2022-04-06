@@ -20,7 +20,7 @@
 
 ![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderFernandez11&hide=contribs,prs&count_private=true&show_icons=true&theme=tokyonight&hide_rank=true)
 
-[![Alexander Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderFernandez11&theme=tokyonight&layout=compact&count_private=true&langs_count=8&show_icons=tru)](https://github.com/anuraghazra/github-readme-stats)
+[![Alexander Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderFernandez11&theme=tokyonight&layout=compact&count_private=true&langs_count=8&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
