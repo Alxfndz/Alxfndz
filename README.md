@@ -2,7 +2,7 @@
 
 #### -🎓📊 I'm an undergraduate Economics student at Florida State Universty graduating Summer 2022.
 
-#### -🎓💻 Post-graduation I'll be pursuing a masters degree in Computer Science at Florda International University.
+#### -🎓💻 Post-graduation I'll be pursuing a masters degree in Computer Science at The Georgia Institute of Technology.
 
 #### -💻💹 I'm an aspiring Quantitative Developer with an array of passions including DS/ML, Capital Markets and Mixed Martial Arts.
 
