@@ -7,7 +7,7 @@
 #### -💻💹 I'm an aspiring Quantitative Developer with an array of passions including DS/ML, Capital Markets and Mixed Martial Arts.
 
 
-#### Connect with me:
+#### Socials:
 <a href="https://twitter.com/A_Fernandez11">
          <img src="twitter.png">
       </a>
