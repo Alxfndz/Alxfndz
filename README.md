@@ -1,6 +1,6 @@
 ### Hi there, I'm Alex! 👋
 
-#### -🎓📊 I'm an undergraduate Economics student at Florida State Universty graduating Summer 2022.
+#### -🎓📊 I'm a senior undergraduate Economics student at Florida State University.
 
 #### -🎓💻 Post-graduation I'll be pursuing a masters degree in Computer Science at The Georgia Institute of Technology.
 
