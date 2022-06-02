@@ -2,7 +2,7 @@
 
 #### -🎓📊 I'm a senior undergraduate Economics student at Florida State University.
 
-#### -🎓🧮 Post-graduation I'll be pursuing a masters degree in Applied Mathematics at Florida International University.
+#### -🎓🧮 Post-graduation I'll be pursuing a masters degree in Computer Science at The Georgia Institute of Technology.
 
 #### -💻💹 I'm an aspiring Quantitative Trader with an array of passions including DS/ML, Capital Markets and Mixed Martial Arts Analytics.
 
