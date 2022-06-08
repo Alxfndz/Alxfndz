@@ -2,7 +2,7 @@
 
 #### -🎓📊 I'm a senior undergraduate Economics student at Florida State University.
 
-#### -🎓🧮 Post-graduation I'll be pursuing a masters degree in Computer Science at The Georgia Institute of Technology.
+#### -🎓💻 Post-graduation I'll be pursuing a masters degree in Computer Science at The Georgia Institute of Technology.
 
 #### -💻💹 I'm an aspiring Quantitative Developer with an array of passions including Web Development, Capital Markets & Sports Analytics.
 
