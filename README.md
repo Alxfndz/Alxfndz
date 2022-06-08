@@ -18,7 +18,7 @@
 #### Languages and Tools:
 <img src='icons8-microsoft-excel-2019-48.png'><img src='icons8-tableau-software-48.png'><img src='python.png'><img src='icons8-r-48.png'><img src='icons8-sql-48.png'><img src='html.png'><img src='css.png'><img src='js.png'><img src='react.png'>
 
-![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderFernandez11&hide=contribs,prs&count_private=true&show_icons=true&theme=tokyonight&hide_rank=true)
+![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderFernandez11&hide=stars&count_private=true&show_icons=true&theme=tokyonight&hide_rank=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderFernandez11&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
