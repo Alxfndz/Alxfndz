@@ -22,8 +22,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderFernandez11&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<figure><embed src="https://wakatime.com/share/@Alex_Fernandez/8c7b4917-022c-41e8-9d54-f001300894c9.svg"></embed></figure>
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alex_Fernandez)&theme=tokyonnight](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 
