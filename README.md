@@ -8,7 +8,7 @@
 
 
 #### Socials:
-<a href="https://twitter.com/A_Fernandez11">
+<a href="https://twitter.com/Alxfndz">
          <img src="twitter.png">
       </a>
 <a href="https://www.linkedin.com/in/alexander-fernandez-3077ab18b/">
