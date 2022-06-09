@@ -23,6 +23,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alxfndz&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alex_Fernandez&theme=tokyonight&layout=compact&hide_title=true&show_langs=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alex_Fernandez)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 
