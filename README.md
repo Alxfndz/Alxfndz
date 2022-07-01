@@ -4,7 +4,7 @@
 
 #### -💻🎓 Post-graduation I'll be pursuing a masters degree in Computer Science at The Georgia Institute of Technology.
 
-#### -💻🥊 I'm an aspiring Quantitative Developer with a passion for all things Data & Capital Markets.
+#### -💻🥊 I'm an aspiring Quantitative Researcher with a passion for all things Data & Capital Markets.
 
 
 #### Socials:
