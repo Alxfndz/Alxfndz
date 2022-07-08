@@ -21,9 +21,6 @@
 
 ![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alxfndz&hide=contribs,issues,stars&count_private=true&show_icons=true&theme=tokyonight&hide_rank=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alxfndz&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 
 
