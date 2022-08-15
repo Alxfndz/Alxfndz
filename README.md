@@ -1,10 +1,12 @@
 ### Hi there, I'm Alex! 👋
 
-#### -📊🎓 I'm a senior undergraduate Economics student at Florida State University.
+#### -📊🎓 I'm a recent Economics new-grad from Florida State University.
 
-#### -💻🎓 Post-graduation I'll be pursuing a masters degree in Computer Science at The Georgia Institute of Technology.
+#### -💻🎓 Next I will be continuing my education at The Georgia Institute of Technology purusing an M.S. in Computer Science.
 
 #### -💻📈 I'm an aspiring Quantitative Developer with a passion for all things Data & Capital Markets.
+
+#### -💻🚀 Check out my projects below.
 
 
 #### Socials:
