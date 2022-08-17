@@ -6,8 +6,6 @@
 
 #### -💻📈 I'm an aspiring Quantitative Developer with a passion for all things Data & Capital Markets.
 
-#### -💻🚀 Check out my projects below.⬇
-
 
 #### Socials:
 <a href="https://twitter.com/Alxfndz">
