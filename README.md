@@ -4,7 +4,7 @@
 
 #### -💻🎓 Next I will be continuing my education at The Georgia Institute of Technology purusing an M.S. in Computer Science.
 
-#### -💻📈 I'm an aspiring Quantitative Developer with a passion for all things Data & Capital Markets.
+#### -💻📈 I'm an aspiring Quant Dev with a passion for all things Data & Capital Markets.
 
 
 #### Socials:
