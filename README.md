@@ -2,7 +2,7 @@
 
 #### -📊🎓 I'm a recent Economics new-grad from Florida State University.
 
-#### -💻🎓 Next I'm purusing a masters in Computer Science at Georgia Tech.
+#### -💻🎓 Next I'm pursuing a masters in Computer Science at Georgia Tech.
 
 #### -💻📈 I'm an aspiring Quant Trader with a passion for all things Data & Capital Markets.
 
