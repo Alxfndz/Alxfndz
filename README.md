@@ -1,9 +1,10 @@
 ### Hi there, I'm Alex! 👋
 
-#### -📊🎓 I'm a recent Economics new-grad from Florida State University.
+#### -📈 I'm a recent Economics new-grad from Florida State University.
 
-#### -💻🎓 Next I'm pursuing a masters in Computer Science at Georgia Tech.
+#### -💻 Next I'm pursuing a masters in Computer Science at Georgia Tech.
 
+#### -⬇ Check out some of my project below
 
 
 #### Socials:
