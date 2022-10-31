@@ -4,7 +4,7 @@
 
 #### -💻 Next I'm pursuing a masters in Computer Science at Georgia Tech.
 
-#### -⬇ Check out some of my project below.
+#### -⬇ Check out some of my projects below.
 
 
 #### Socials:
