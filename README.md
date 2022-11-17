@@ -1,11 +1,5 @@
 ### Hi there, I'm Alex! 👋
 
-#### -📈 I'm a recent Economics new-grad from Florida State University.
-
-#### -💻 Next I'm pursuing a masters in Computer Science at Georgia Tech.
-
-
-
 #### Socials:
 <a href="https://twitter.com/Alxfndz">
          <img src="twitter.png">
