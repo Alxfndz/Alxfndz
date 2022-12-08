@@ -9,8 +9,7 @@
       </a>
 
 #### Tech Stack:
-<img src='icons8-microsoft-excel-2019-48.png'><img src='icons8-tableau-software-48.png'><img src='python.png'><img src='icons8-sql-48.png'><img src='html.png'><img src='css.png'><img src='js.png'><img src='node.png'><img src='react.png'>
-
+<img src='icons8-microsoft-excel-2019-48.png'><img src='icons8-tableau-software-48.png'><img src='python.png'><img src='icons8-r-48.png'><img src='icons8-sql-48.png'>
 
 
 
