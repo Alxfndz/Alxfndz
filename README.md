@@ -1,5 +1,5 @@
 ### Hi there, I'm Alex! 👋
-####### I'm a recent graduate from Florida State University with a background in economics and minors in computer science and business analytics. Proficient in Python, SQL, C++, Excel, Tableau, and Power BI. Strong analytical skills and passion for utilizing data to drive business decisions. Seeking opportunities in finance and data science/analytics
+###### I'm a recent graduate from Florida State University with a background in economics and minors in computer science and business analytics. Proficient in Python, SQL, C++, Excel, Tableau, and Power BI. Strong analytical skills and passion for utilizing data to drive business decisions. Seeking opportunities in finance and data science/analytics
 
 #### Socials:
 <a href="https://twitter.com/Alxfndz">
