@@ -1,5 +1,5 @@
 ### Hi there, I'm Alex! 👋
-###### I'm a recent graduate from Florida State University with a major in economics and minors in computer science and business analytics. Proficient in Python, SQL, JavaScript/Ty
+###### I'm a recent graduate from Florida State University with a major in Economics and minors in Computer Science and Business Analytics. Proficient in Python, SQL, JavaScript/TypeScript. I'm currently purusing opportunities in Data Analytics/Engineering & Finance. Feel free to connect with me on Twitter & Linkedin.
 
 #### Socials:
 <a href="https://twitter.com/Alxfndz">
