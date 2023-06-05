@@ -14,7 +14,7 @@
 
 [![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=alxfndz&hide=contribs,prs,issues,stars&theme=midnight-purple&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&layout=compact&text_color=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxfndz&layout=donut-vertical&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxfndz&layout=pie&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
