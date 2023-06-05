@@ -16,7 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxfndz&layout=compact&theme=midnight-purple&card_width=390px)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alex_Fernandez)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
