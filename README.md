@@ -12,9 +12,9 @@
 #### Tools & Technologies:
 <img src='icons8-microsoft-excel-2019-48.png'><img src='icons8-power-bi-48.png'><img src='icons8-tableau-software-48.png'><img src='python.png'><img src='icons8-sql-48.png'>
 
-[![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=alxfndz&hide=contribs,prs,issues,stars&theme=midnight-purple&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&layout=compact&text_color=midnight-purple&card_width=100px)](https://github.com/anuraghazra/github-readme-stats)
+[![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=alxfndz&hide=contribs,prs,issues,stars&theme=midnight-purple&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&layout=compact&text_color=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxfndz&layout=compact&theme=midnight-purple&card_width=150px)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxfndz&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
