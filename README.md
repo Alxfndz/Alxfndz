@@ -1,3 +1,4 @@
+[![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alxfndz/)
 ### Hi there, I'm Alex! 👋
 ###### I'm a newgrad from Florida State University with a major in Economics and minors in Computer Science & Business Analytics. Proficient in Python, SQL, Tableau & Power BI. I'm currently pursuing opportunities in Data Analytics/Engineering & Finance. Feel free to connect with me on Twitter & Linkedin below.
 
@@ -16,6 +17,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Alxfndz&theme=midnight-purple&hide_border=true&border_radius=1&date_format=n%2Fj%5B%2FY%5D&card_width=390)](https://git.io/streak-stats)
 
-[![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://google.com)
+
 
 
