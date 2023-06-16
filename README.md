@@ -1,5 +1,5 @@
 ### Hi there, I'm Alex! 👋
-[![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=purple&colorA=black&colorB=black)](https://www.linkedin.com/in/alxfndz/) [![twitter](https://img.shields.io/badge/Twitter-0e76a8?style=for-the-badge&logo=Twitter&logoColor=purple&colorA=black&colorB=black)](https://twitter.com/Alxfndz)
+[![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=purple&colorA=black&colorB=black?style=flat-square&logo=appveyor)](https://www.linkedin.com/in/alxfndz/) [![twitter](https://img.shields.io/badge/Twitter-0e76a8?style=for-the-badge&logo=Twitter&logoColor=purple&colorA=black&colorB=black?style=flat-square&logo=appveyor)](https://twitter.com/Alxfndz)
 ###### I'm a newgrad from Florida State University with a major in Economics and minors in Computer Science & Business Analytics. Proficient in Python, SQL, Tableau & Power BI. I'm currently pursuing opportunities in Data Analytics/Engineering & Finance. Feel free to connect with me on Twitter & Linkedin.
 
 #### Tools & Technologies:
