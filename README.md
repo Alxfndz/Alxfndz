@@ -14,4 +14,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxfndz&layout=compact&theme=midnight-purple&card_width=390px)](https://github.com/anuraghazra/github-readme-stats)
 
-![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=Alxfndz&theme=tokyonight&border_radius=5&date_format=n%2Fj%5B%2FY%5D&card_width=390)](https://git.io/streak-stats)
+
