@@ -16,6 +16,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Alxfndz&theme=midnight-purple&hide_border=true&border_radius=1&date_format=n%2Fj%5B%2FY%5D&card_width=390)](https://git.io/streak-stats)
 
-![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&url='https://google.com')
+[![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://google.com)
 
 
