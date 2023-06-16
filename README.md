@@ -1,14 +1,6 @@
 ### Hi there, I'm Alex! 👋
 [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alxfndz/) [![twitter](https://img.shields.io/badge/Twitter-0e76a8?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Alxfndz)
-###### I'm a newgrad from Florida State University with a major in Economics and minors in Computer Science & Business Analytics. Proficient in Python, SQL, Tableau & Power BI. I'm currently pursuing opportunities in Data Analytics/Engineering & Finance. Feel free to connect with me on Twitter & Linkedin below.
-
-#### Socials:
-<a href="https://twitter.com/Alxfndz">
-         <img src="twitter.png">
-      </a>
-<a href="https://www.linkedin.com/in/alexander-fernandez-3077ab18b/">
-         <img src="linkedin.png">
-      </a>
+###### I'm a newgrad from Florida State University with a major in Economics and minors in Computer Science & Business Analytics. Proficient in Python, SQL, Tableau & Power BI. I'm currently pursuing opportunities in Data Analytics/Engineering & Finance. Feel free to connect with me on Twitter & Linkedin.
 
 #### Tools & Technologies:
 <img src='icons8-microsoft-excel-2019-48.png'><img src='icons8-power-bi-48.png'><img src='icons8-tableau-software-48.png'><img src='python.png'><img src='icons8-sql-48.png'>
