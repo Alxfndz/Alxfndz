@@ -7,7 +7,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxfndz&layout=compact&theme=midnight-purple&card_width=390px&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Alxfndz&theme=midnight-purple&hide_border=true&border_radius=1&date_format=n%2Fj%5B%2FY%5D&card_width=390)](https://git.io/streak-stats)
 
 
 
